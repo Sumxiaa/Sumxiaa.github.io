@@ -12,6 +12,5 @@ I am a PhD student in the Computer Vision Group at the University of Bern, super
 
 News
 ======
-## News
 
 * ***September, 2020:*** Started a PhD at the University of Bern
