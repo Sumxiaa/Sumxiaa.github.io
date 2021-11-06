@@ -85,7 +85,7 @@ author:
   bio              : "PhD student at the University of Bern"
   location         : "Bern, Switzerland"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ru/citations?user=5YfxOK4AAAAJ&hl=ru"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
