@@ -21,7 +21,7 @@ redirect_from:
   With specialization in Theory of Functions and Functional Analisys  
   **_Thesis Title:_** Spectral analysis of the operator in the generalized ’t Hooft model
   
-* **Dimploma in Computer Science** - Yandex School of Data Science, 2018  
+* **Diploma in Computer Science** - Yandex School of Data Science, 2018  
   With specialization in Data Analisys in Applied Sciences  
   **_Thesis Title:_** Optimization of oil production via construction of forecast models on injection wells operation modes
 
