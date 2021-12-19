@@ -13,4 +13,6 @@ I am a PhD student in the Computer Vision Group at the University of Bern, super
 News
 ======
 
+* ***December, 2021:*** A paper on the use of Kalman filtering for training neural networks got accepted to AAAI2022
+
 * ***September, 2020:*** Started a PhD at the University of Bern
