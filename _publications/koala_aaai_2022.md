@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/koala_aaai_2022
 date: 2022-02-22
 venue: 'AAAI Conference on Artificial Intelligence'
-citation: 'A. Davtyan, S. Sameni, L. Cerkezi, G. Meishvili, A. Bielski and P. Favaro. (2022). &quot;KOALA: A Kalman Optimization Algorithm with Loss Adaptivity.&quot; <i>In Proceedings of the 36th AAAI Conference on Artificial Intelligence</i>.'
+citation: 'A. Davtyan, S. Sameni, L. Cerkezi, G. Meishvili, A. Bielski and P. Favaro. (2022). &quot;KOALA: A Kalman Optimization Algorithm with Loss Adaptivity.&quot; In <i>Proceedings of the 36th AAAI Conference on Artificial Intelligence</i>.'
 ---
 
 [[PDF]](https://arxiv.org/pdf/2107.03331.pdf) [[Project Page]](https://araachie.github.io/koala/)
