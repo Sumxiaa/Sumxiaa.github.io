@@ -13,7 +13,7 @@ I am a PhD student in the Computer Vision Group at the University of Bern, super
 News
 ======
 
-* ***July, 2022:*** Our paper on controllable video generation through global and local motion analysis got accepted to ECCV2022
+* ***July, 2022:*** A paper on controllable video generation through global and local motion analysis got accepted to ECCV2022
 
 * ***December, 2021:*** A paper on the use of Kalman filtering for training neural networks got accepted to AAAI2022
 
