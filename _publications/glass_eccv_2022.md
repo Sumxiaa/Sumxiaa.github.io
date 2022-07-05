@@ -3,7 +3,7 @@ title: "Controllable Video Generation through Global and Local Motion Dynamics"
 collection: publications
 permalink: /publication/glass_eccv_2022
 date: 2022-10-25
-venue: 'European Conference on Computer Vision 2022'
+venue: 'European Conference on Computer Vision'
 citation: 'A. Davtyan and P. Favaro. (2022). &quot;Controllable Video Generation through Global and Local Motion Dynamics.&quot; In <i>Proceedings of the European Conference on Computer Vision 2022</i>.'
 ---
 
