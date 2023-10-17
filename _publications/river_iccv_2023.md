@@ -1,7 +1,7 @@
 ---
 title: "Efficient Video Prediction via Sparsely Conditioned Flow Matching"
 collection: publications
-permalink: /publication/river_iccv_2022
+permalink: /publication/river_iccv_2023
 date: 2023-10-02
 venue: 'International Conference on Computer Vision'
 citation: 'A. Davtyan, S. Sameni and P. Favaro. (2023). &quot;Efficient Video Prediction via Sparsely Conditioned Flow Matching.&quot; In <i>Proceedings of the International Conference on Computer Vision</i>.'
