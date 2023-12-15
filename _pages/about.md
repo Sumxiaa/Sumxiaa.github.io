@@ -13,6 +13,8 @@ I am a PhD student in the Computer Vision Group at the University of Bern, super
 News
 ======
 
+* ***December, 2023:*** A paper on controllable multi-object video generation with sparse optical flow input got accepted to AAAI2024
+
 * ***July, 2023:*** A paper on efficient video prediction using sparsely conditioned flow matching got accepted to ICCV2023
 
 * ***July, 2022:*** A paper on controllable video generation through global and local motion analysis got accepted to ECCV2022
