@@ -1,18 +1,25 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+adavtyan:
+  first_name: Aram
+  last_name: Davtyan
+  website: https://araachie.github.io
+  is_me: true
+pfavaro:
+  first_name: Paolo
+  last_name: Favaro
+  website: https://cvg.unibe.ch/people/favaro
+ssameni:
+  first_name: Sepehr
+  last_name: Sameni
+  website: https://www.github.com/Separius
+lcerkezi:
+  first_name: Llukman
+  last_name: Cerkezi
+  website: https://scholar.google.com/citations?user=ZxfliGcAAAAJ&hl=en
+gmeishvili:
+  first_name: Givi
+  last_name: Meishvili
+  website: https://gmeishvili.github.io/
+abielski:
+  first_name: Adam
+  last_name: Bielski
+  website: https://adambielski.github.io/

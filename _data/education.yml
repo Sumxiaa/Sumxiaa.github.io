@@ -1,0 +1,17 @@
+- name: University of Bern
+  description: >-
+    Ph. D in Computer Science, advised by <a href="https://cvg.unibe.ch/people/favaro">Prof. Dr. Paolo Favaro</a>.
+    <br>Research Topics: Learning Object Interactions, Controllable Video Generation, World Models.
+  dates: Sep 2020 - present
+
+- name: Lomonosov Moscow State University
+  description: >-
+    B.S. + M.S. equivalent (with honors) in Mathematics, advised by <a href="https://www.mathnet.ru/eng/person17828">Prof. Dr. Igor Sheipak</a>.
+    <br>Thesis: Spectral analysis of the operator in the generalized ’t Hooft model.
+  dates: Sep 2014 - June 2020
+
+- name: Yandex School of Data Analysis
+  description: >-
+    M.S. equivalent in Data Analysis, advised by <a href="https://scholar.google.com/citations?user=CTsvFHYAAAAJ&hl=en">Prof. Dr. Ilya Muchnik</a>.
+    <br>Thesis: Optimization of oil production via forecast models on injection wells operation modes.
+  dates: Sep 2014 - June 2020

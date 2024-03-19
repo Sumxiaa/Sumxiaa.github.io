@@ -1,0 +1,11 @@
+- company: <a href="https://yandex.com/company/">Yandex</a>
+  description: >-
+    Software Engineer at the Backend of Yandex.Navigator. Implemented algorithms for (sub)optimal route proposals on road graphs. Improved the quiality of the service via machine learning.
+  dates: "Feb 2019 - Sep 2020"
+  location: Moscow, Russia
+
+- company: <a href="https://www.inlinegroup.ru/en/about/">Inline Group</a>
+  description: >-
+    ML Specialist. Developed oil production forecast models.
+  dates: "Sep 2017 - Dec 2021"
+  location: Moscow, Russia

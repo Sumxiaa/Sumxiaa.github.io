@@ -1,0 +1,68 @@
+- id: yoda
+  title: "Learn the Force We Can: Enabling Sparse Motion Control in Multi-Object Video Generation"
+  venue: AAAI, 2024
+  description: "A model to animate single frames with sparse motion control."
+  project_page: https://araachie.github.io/yoda
+  github: araachie/yoda
+  arxiv: 2306.03988
+  image: yoda.png
+  image_mouseover: yoda.mp4
+  authors:
+    - adavtyan
+    - pfavaro
+
+- id: mirage
+  title: "Multi-View Unsupervised Image Generation with Cross Attention Guidance"
+  venue: arXiv, 2023
+  description: "Single image to novel view synthesis without any supervision."
+  arxiv: 2312.04337
+  image: mirage.png
+  image_mouseover: mirage.mp4
+  authors:
+    - lcerkezi
+    - adavtyan
+    - ssameni
+    - pfavaro
+
+- id: river
+  title: "Efficient Video Prediction via Sparsely Conditioned Flow Matching"
+  venue: ICCV, 2023
+  description: "Conditioning only on a few randomly chosen past frames at each denoising step of flow matching results into a more efficient training procedure."
+  project_page: https://araachie.github.io/river
+  github: araachie/river
+  arxiv: 2211.14575
+  image: river.png
+  authors:
+    - adavtyan
+    - ssameni
+    - pfavaro
+
+- id: glass
+  title: "Controllable Video Generation through Global and Local Motion Dynamics"
+  venue: ECCV, 2022
+  description: "A model to discover agents' action spaces from a dataset of videos in an unsupervised way. The action spaces are decomposed into global (2D shifts) and local (discrete) actions."
+  project_page: https://araachie.github.io/glass
+  github: araachie/glass
+  arxiv: 2204.06558
+  image: glass.png
+  image_mouseover: glass.mp4
+  authors:
+    - adavtyan
+    - ssameni
+    - pfavaro
+
+- id: koala
+  title: "KOALA: A Kalman Optimization Algorithm with Loss Adaptivity"
+  venue: AAAI, 2022
+  description: "A neural network optimization algorithm based on Kalman filtering."
+  project_page: https://araachie.github.io/koala
+  github: araachie/koala
+  arxiv: 2107.03331
+  image: koala.png
+  authors:
+    - adavtyan
+    - ssameni
+    - lcerkezi
+    - gmeishvili
+    - abielski
+    - pfavaro
