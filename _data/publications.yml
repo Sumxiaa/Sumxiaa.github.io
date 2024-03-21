@@ -1,3 +1,16 @@
+- id: cage
+  title: "Enabling Visual Composition and Animation in Unsupervised Video Generation"
+  venue: arXiv, 2024
+  description: "A model to compose and animate scenes from sparse sets of visual features."
+  project_page: https://araachie.github.io/cage
+  github: araachie/cage
+  image: cage.png
+  authors:
+    - adavtyan
+    - ssameni
+    - bommer
+    - pfavaro
+
 - id: yoda
   title: "Learn the Force We Can: Enabling Sparse Motion Control in Multi-Object Video Generation"
   venue: AAAI, 2024
@@ -10,6 +23,7 @@
   authors:
     - adavtyan
     - pfavaro
+    - bommer
 
 - id: mirage
   title: "Multi-View Unsupervised Image Generation with Cross Attention Guidance"
