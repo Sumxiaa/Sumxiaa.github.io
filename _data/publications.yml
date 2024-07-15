@@ -24,7 +24,6 @@
   authors:
     - adavtyan
     - pfavaro
-    - bommer
 
 - id: mirage
   title: "Multi-View Unsupervised Image Generation with Cross Attention Guidance"
