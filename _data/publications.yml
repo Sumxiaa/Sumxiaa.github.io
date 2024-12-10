@@ -1,6 +1,6 @@
 - id: cage
   title: "Enabling Visual Composition and Animation in Unsupervised Video Generation"
-  venue: arXiv, 2024
+  venue: AAAI, 2025
   description: "A model to compose and animate scenes from sparse sets of visual features."
   project_page: https://araachie.github.io/cage
   github: araachie/cage
