@@ -1,5 +1,36 @@
+- id: gem
+  title: "GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control"
+  venue: arXiv, 2024
+  description: "A multi-modal and multi-domain ego-vision world model with precise control over object dynamics, ego-agent motion and human poses."
+  project_page: https://vita-epfl.github.io/GEM.github.io
+  github: vita-epfl/GEM
+  arxiv: 2412.11198
+  image: gem.png
+  image_mouseover: gem.mp4
+  authors:
+    - Mariam Hassan
+    - Sebastian Stapf
+    - Ahmad Rahimi
+    - Pedro M B Rezende
+    - Yasaman Haghighi
+    - David Brüggemann
+    - Isinsu Katircioglu
+    - Lin Zhang
+    - Xiaoran Chen
+    - Suman Saha
+    - Marco Cannici
+    - Elie Aljalbout
+    - Botao Ye
+    - Xi Wang
+    - adavtyan
+    - Mathieu Salzmann
+    - Davide Scaramuzza
+    - Marc Pollefeys
+    - pfavaro
+    - Alexandre Alahi
+
 - id: cage
-  title: "Enabling Visual Composition and Animation in Unsupervised Video Generation"
+  title: "CAGE: Unsupervised Visual Composition and Animation for Controllable Video Generation"
   venue: AAAI, 2025
   description: "A model to compose and animate scenes from sparse sets of visual features."
   project_page: https://araachie.github.io/cage
