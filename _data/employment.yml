@@ -1,6 +1,12 @@
+- company: <a href="https://unibe.ch/">University of Bern</a>
+  description: >-
+    Postdoctoral Researcher in the Computer Vision Group. Working on world models and generative AI.
+  dates: "Jan 2025 - Present"
+  location: Bern, Switzerland
+
 - company: <a href="https://studios.disneyresearch.com/">Disney Research Studios</a>
   description: >-
-    Research Intern at the Imaging and Video Group. Developed deep learning models for video quality enhancement: super-resolution, deinterlacing, stabilization etc.
+    Research Intern in the Imaging and Video Group. Developed deep learning models for video quality enhancement: super-resolution, deinterlacing, stabilization etc.
   dates: "Jun 2024 - Sep 2024"
   location: Zürich, Switzerland
 
