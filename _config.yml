@@ -23,15 +23,15 @@ name: Aram Davtyan
 position: Ph.D. Student 
 email: aram.davtyan@unibe.ch
 description: >-
-  I am a Ph.D. student in the [Computer Vision Group](https://cvg.unibe.ch) at the [University of Bern](https://unibe.ch), supervised by [Prof. Dr. Paolo Favaro](https://cvg.unibe.ch/people/favaro). 
-  I received my Specialist degree in Fundamental Mathematics and Mechanics at the [Lomonosov Moscow State University](https://msu.ru/en/) in 2020. 
-  I also graduated from the [Yandex School of Data Analysis](https://dataschool.yandex.com/) in 2018. My topics of interest include Machine Learning, Computer Vision, Deep Learning and Generative Modeling.
+  I am a Postdoctoral Researcher in the [Computer Vision Group](https://cvg.unibe.ch) at the [University of Bern](https://unibe.ch). I earned my Ph.D. in Computer Science from the [University of Bern](https://unibe.ch) under the supervision of [Prof. Dr. Paolo Favaro](https://cvg.unibe.ch/people/favaro).
+  Prior to that, I completed a Specialist degree (equivalent to B.S. + M.S.) in Fundamental Mathematics and Mechanics at [MSU](https://msu.ru/en/) in 2020. 
+  I also graduated from [YSDA](https://dataschool.yandex.com/) in 2018. My research interests include Machine Learning, Computer Vision, Generative AI, and World Models.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://araachie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AraachieA
 github_username: Araachie
 google_scholar: 5YfxOK4AAAAJ
-last_updated: January 3, 2025
+last_updated: January 16, 2025
 
 # Build settings
 theme: minima
