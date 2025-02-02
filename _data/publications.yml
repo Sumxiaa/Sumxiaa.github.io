@@ -1,3 +1,16 @@
+- id: loom
+  title: "Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling"
+  venue: ICLR, 2025
+  description: "A method that straightens sampling trajectories in the flow matching framework via storing and exchanging locally optimal data-noise couplings across minibatches."
+  project_page: https://openreview.net/forum?id=rsGPrJDIhh
+  github: araachie/loom
+  image: loom.jpg
+  authors:
+    - adavtyan
+    - Leello Tadesse Dadi
+    - Volkan Cevher
+    - pfavaro
+
 - id: gem
   title: "GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control"
   venue: arXiv, 2024
