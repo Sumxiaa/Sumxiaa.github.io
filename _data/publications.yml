@@ -13,7 +13,7 @@
 
 - id: gem
   title: "GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control"
-  venue: arXiv, 2024
+  venue: CVPR, 2025
   description: "A multi-modal and multi-domain ego-vision world model with precise control over object dynamics, ego-agent motion and human poses."
   project_page: https://vita-epfl.github.io/GEM.github.io
   github: vita-epfl/GEM
