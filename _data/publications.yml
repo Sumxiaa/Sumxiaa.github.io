@@ -1,3 +1,20 @@
+- id: gen2gen
+  title: "From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models"
+  venue: arXiv, 2025
+  description: "A few-shot fine-tuning framework that repurposes VDMs for new tasks using only a handful of examples."
+  arxiv: 2506.07280
+  project_page: https://pabloacuaviva.github.io/Gen2Gen
+  github: PabloAcuaviva/Gen2Gen
+  image: gen2gen.png
+  authors:
+    - pacuaviva
+    - adavtyan
+    - Mariam Hassan
+    - sstapf
+    - Ahmad Rahimi
+    - Alexandre Alahi
+    - pfavaro
+
 - id: koalapp
   title: "KOALA++: Efficient Kalman-Based Optimization of Neural Networks with Gradient-Covariance Products"
   venue: arXiv, 2025
