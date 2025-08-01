@@ -26,6 +26,19 @@
     - adavtyan
     - pfavaro
 
+- id: mirage
+  title: "Multi-View Unsupervised Image Generation with Cross Attention Guidance"
+  venue: ICCVW, 2025
+  description: "Single image to novel view synthesis without any supervision."
+  arxiv: 2312.04337
+  image: mirage.png
+  image_mouseover: mirage.mp4
+  authors:
+    - lcerkezi
+    - adavtyan
+    - ssameni
+    - pfavaro
+
 - id: loom
   title: "Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling"
   venue: ICLR, 2025
@@ -95,19 +108,6 @@
   image_mouseover: yoda.mp4
   authors:
     - adavtyan
-    - pfavaro
-
-- id: mirage
-  title: "Multi-View Unsupervised Image Generation with Cross Attention Guidance"
-  venue: arXiv, 2023
-  description: "Single image to novel view synthesis without any supervision."
-  arxiv: 2312.04337
-  image: mirage.png
-  image_mouseover: mirage.mp4
-  authors:
-    - lcerkezi
-    - adavtyan
-    - ssameni
     - pfavaro
 
 - id: river
