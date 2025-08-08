@@ -8,17 +8,21 @@ description: >-
 
   My research interests lie in optimization algorithms in deep learning, generative models, and computer vision.
 
-baseurl: ""
+baseurl: "" # for GitHub Pages
 url: "https://sumxiaa.github.io"
+
 twitter_username: Sumxiaa
 github_username: Sumxiaa
 google_scholar: jvJz7XQAAAAJ&hl
 last_updated: August 8, 2025
 
-theme: minima
+# ✅ 使用官方推荐方式设置主题
+remote_theme: jekyll/minima
+
 plugins:
   - jekyll-feed
 
 sass:
   style: compact
+
 
