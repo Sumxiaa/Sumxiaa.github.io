@@ -3,16 +3,16 @@
     Proposed a lightweight Kalman-filter-based reward normalization framework to replace heuristic Z-score normalization in policy gradient reinforcement learning.
     Developed both fixed and adaptive 1D Kalman filter modules for online return estimation, enabling dynamic adaptation to non-stationary reward distributions.
     Demonstrated improved convergence speed and stability on CartPole and LunarLander using REINFORCE, Actor-Critic, GAE, and PPO.
-    Worked jointly with Quanxi Li; submitted and presented at the <a href="https://ml2025workshop.cn">New in ML 2025 Workshop</a>.
-  year: Apr 2025 – June 2025
+    Worked jointly with Quanxi Li; submitted and presented at the "<a href='https://ml2025workshop.cn'>New in ML 2025 Workshop</a>".
+  year: Apr 2025 - June 2025
   institution: University of Neuchâtel
 
 - title: Music Generation with Large Language Models
   description: >-
     Conducted undergraduate thesis research on symbolic music generation using deep learning, focusing on recurrent networks, Transformers, and LLMs.
     Evaluated models on the MAESTRO dataset using both MIDI and waveform outputs; visualized training and validation performance.
-    Released code on GitHub: <a href="https://github.com/sumxiaa/DL4Music">DL4Music</a>.
-  year: Feb 2024 – June 2024
+    Released code on GitHub: "<a href='https://github.com/sumxiaa/DL4Music'>DL4Music</a>".
+  year: Feb 2024 - June 2024
   institution: Xi’an Jiaotong University
 
 - title: Multilingual Document Layout Analysis on Public Procurement Data
@@ -21,23 +21,24 @@
     Benchmarked YOLOv10 and Transformer-based (LayoutXLM, LiLT) models under limited labeled data.
     Built pipeline for PDF preprocessing, region extraction, comparison, and qualitative evaluation.
     Evaluated model accuracy and inference time, with oral presentation of results.
-  year: Nov 2024 – Dec 2024
-  tags: YOLOv10, LayoutXLM, LiLT, Python
+  year: Nov 2024 - Dec 2024
+  tags: [YOLOv10, LayoutXLM, LiLT, Python]
 
 - title: Time Series Forecasting on Real Bank Transaction Data
   description: >-
-    Collaborated with Prof. <a href="https://example.com">Lufei Huang</a> on a banking project using proprietary transaction data.
+    Collaborated with Prof. <a href='https://example.com'>Lufei Huang</a> on a banking project using proprietary transaction data.
     Built a CNN-based model to forecast 7×7 matrix-style flows; achieved cosine similarity > 0.73.
     Developed full pipeline with preprocessing, normalization, visualization, and inference logging.
-  year: July 2024 – Sept. 2024
-  tags: PyTorch, CNN, Time Series
+  year: July 2024 - Sept 2024
+  tags: [PyTorch, CNN, Time Series]
 
 - title: Deep Learning Notes Organization and Rewriting
   description: >-
     Reorganized and rewrote materials from multiple deep learning courses into cohesive documents.
     Completed 15 assignments from Hung-Yi Lee’s curriculum with structured notes.
-    Published on GitHub, gaining 100+ stars: <a href="https://github.com/sumxiaa/dl-notes">Repo Link</a>.
-    In Spring 2025, began English rewriting project with Prof. <a href="https://cvg.unibe.ch/people/favaro">Paolo Favaro</a> (University of Bern), integrating key ideas into LaTeX-based materials.
-  year: Oct. 2023 – July 2025
-  tags: Word, PyTorch, PowerPoint, LaTeX
+    Published on GitHub, gaining 100+ stars: "<a href='https://github.com/sumxiaa/dl-notes'>Repo Link</a>".
+    In Spring 2025, began English rewriting project with Prof. <a href='https://cvg.unibe.ch/people/favaro'>Paolo Favaro</a> (University of Bern), integrating key ideas into LaTeX-based materials.
+  year: Oct 2023 - July 2025
+  tags: [Word, PyTorch, PowerPoint, LaTeX]
+
 
