@@ -88,21 +88,23 @@ layout: null
         </div>
         {% endfor %}
 
-        <h2>Employment</h2>
-
-        {% for job in site.data.employment %}
+        <h2>Projects</h2>
+        
+        {% for project in site.data.projects %}
         <div class="columns">
           <div class="column is-four-fifths">
-            <b>{{ job.company }}</b><br />
-            {{ job.description }}
+            <b>{{ project.title }}</b><br />
+            {{ project.description }}
+            {% if project.link %}
+            <br /><a href="{{ project.link }}" target="_blank">[Project Link]</a>
+            {% endif %}
           </div>
           <div class="column is-one-fifths has-text-right">
-            {{ job.dates }}
-            <br />
-            {{ job.location }}
+            {{ project.year }}
           </div>
         </div>
         {% endfor %}
+
 
         <h2>Publications</h2>
 
