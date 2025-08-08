@@ -18,20 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Aram Davtyan
-name: Aram Davtyan
-position: Postdoctoral Researcher
-email: aram.davtyan@unibe.ch
+title: Zixuan Xia
+name: Zixuan Xia
+position: Master Student
+email: xxiazixuan824@gmail.com
 description: >-
-  I am a Postdoctoral Researcher in the [Computer Vision Group](https://cvg.unibe.ch) at the [University of Bern](https://unibe.ch). I earned my Ph.D. in Computer Science from the [University of Bern](https://unibe.ch) in 2024, where I was supervised by [Prof. Dr. Paolo Favaro](https://cvg.unibe.ch/people/favaro).
-  Prior to that, I completed a Specialist degree (equivalent to B.S. + M.S.) in Fundamental Mathematics and Mechanics at [MSU](https://msu.ru/en/) in 2020. 
-  Additionally, I graduated from [YSDA](https://dataschool.yandex.com/) in 2018. My research interests include Machine Learning, Computer Vision, Generative AI, and World Models.
+I am a second-year Master’s student in Computer Science at the [University of Bern](https://www.unibe.ch/). I received my Bachelor’s degree in Software Engineering from Xi’an Jiaotong University[https://en.xjtu.edu.cn/] in China.
+
+My research interests lie in optimization algorithms in deep learning, generative models, and computer vision.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://araachie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: AraachieA
-github_username: Araachie
-google_scholar: 5YfxOK4AAAAJ
-last_updated: August 1, 2025
+url: "https://Sumxiaa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Sumxiaa
+github_username: Sumxiaa
+google_scholar: jvJz7XQAAAAJ&hl
+last_updated: August 8, 2025
 
 # Build settings
 theme: minima

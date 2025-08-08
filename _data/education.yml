@@ -1,17 +1,13 @@
 - name: University of Bern
   description: >-
-    Ph. D in Computer Science, advised by <a href="https://cvg.unibe.ch/people/favaro">Prof. Dr. Paolo Favaro</a>.
-    <br>Thesis: Learning Object Interactions via Efficient and Controllable Generative Models.
-  dates: Sep 2020 - Dec 2024
+    M.Sc. in Computer Science.
+    <br>Currently in the second year of the program. During my studies, I have been collaborating on research projects with the <a href="https://cvg.unibe.ch">Computer Vision Group</a>, focusing on optimization in deep learning.
+    <br>Supervised by <a href="https://cvg.unibe.ch/people/favaro">Prof. Dr. Paolo Favaro</a>.
+  dates: Sep 2024 – Present
 
-- name: Lomonosov Moscow State University
+- name: Xi’an Jiaotong University
   description: >-
-    B.S. + M.S. equivalent (with honors) in Mathematics, advised by <a href="https://www.mathnet.ru/eng/person17828">Prof. Dr. Igor Sheipak</a>.
-    <br>Thesis: Spectral analysis of the operator in the generalized ’t Hooft model.
-  dates: Sep 2014 - June 2020
+    B.Eng. in Software Engineering, advised by <a href="https://gr.xjtu.edu.cn/web/zhujihua">Prof. Jihua Zhu</a>.
+    <br>Thesis: Music Generation Based on Large Language Models.
+  dates: Sep 2020 – June 2024
 
-- name: Yandex School of Data Analysis
-  description: >-
-    M.S. equivalent in Data Analysis, advised by <a href="https://scholar.google.com/citations?user=CTsvFHYAAAAJ&hl=en">Prof. Dr. Ilya Muchnik</a>.
-    <br>Thesis: Optimization of oil production via forecast models on injection wells operation modes.
-  dates: Sep 2016 - June 2018
