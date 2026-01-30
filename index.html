@@ -149,16 +149,20 @@ layout: null
                 <span>Project Page</span>
               </a>
               {% endif %}
-              {% if publication.arxiv %}
-              <a class="external-link button is-small is-ghost" href="https://arxiv.org/pdf/{{ publication.arxiv }}.pdf">
+              {% if publication.pdf %}
+              <a class="external-link button is-small is-ghost" href="{{ publication.pdf }}" target="_blank" rel="noopener">
                 <span class="icon"><i class="fas fa-file-pdf"></i></span>
                 <span>PDF</span>
               </a>
-              <a class="external-link button is-small is-ghost" href="https://arxiv.org/abs/{{ publication.arxiv }}">
+              {% endif %}
+              
+              {% if publication.arxiv %}
+              <a class="external-link button is-small is-ghost" href="{{ publication.arxiv }}" target="_blank" rel="noopener">
                 <span class="icon"><i class="ai ai-arxiv"></i></span>
                 <span>arXiv</span>
               </a>
               {% endif %}
+
               {% if publication.github %}
               <a class="external-link button is-small is-ghost" href="https://github.com/{{ publication.github }}">
                 <span class="icon"><i class="fa fab fa-github"></i></span>
