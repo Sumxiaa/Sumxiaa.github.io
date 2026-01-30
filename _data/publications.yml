@@ -9,3 +9,19 @@
     - Zixuan Xia
     - adavtyan
     - pfavaro
+
+- id: DAGR
+  title: "When Gradient Optimization Is Not Enough: † Dispersive and Anchoring Geometric Regularizer for Multimodal Learning"
+  venue: "arXiv, 2026"
+  description: "A plug-and-play geometry-aware regularization framework for multimodal learning, encouraging intra-modal dispersion and inter-modal anchoring to mitigate representation collapse and cross-modal drift."
+  arxiv: 2601.21670          
+  image: general.png # 你放在 assets 里的图片文件名（没有就先删掉这一行也行）
+  authors:
+    - Zixuan Xia*
+    - Hao Wang*
+    - Pengcheng Weng*
+    - Yanyu Qian
+    - Yangxin Xu
+    - William Dan
+    - Fei Wang
+  note: "* Equal contribution"
