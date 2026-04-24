@@ -1,4 +1,19 @@
-
+- id: COMPASS
+  title: "COMPASS: Complete Multimodal Fusion via Proxy Tokens and Shared Spaces for Ubiquitous Sensing"
+  venue: "arXiv, 2026"
+  description: "A missing-modality multimodal fusion framework that preserves a modality-complete fusion interface by synthesizing proxy tokens for absent modalities in a shared latent space."
+  arxiv: "https://arxiv.org/abs/2604.02056"
+  pdf:   "https://arxiv.org/pdf/2604.02056.pdf"
+  image: fig2.png
+  authors:
+    - Hao Wang*
+    - Yanyu Qian*
+    - Pengcheng Weng
+    - Zixuan Xia
+    - William Dan
+    - Yangxin Xu
+    - Fei Wang
+  note: "* Equal contribution"
 
 - id: DAGR
   title: "When Gradient Optimization Is Not Enough: † Dispersive and Anchoring Geometric Regularizer for Multimodal Learning"
