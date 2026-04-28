@@ -32,6 +32,19 @@
     - Fei Wang
   note: "* Equal contribution"
 
+- id: KScore
+  title: "K-Score: Kalman Filter as a Principled Alternative to Reward Normalization in Reinforcement Learning"
+  venue: "NewInML Workshop, ICML 2025"
+  description: "A lightweight Kalman-filter-based reward estimation method for policy gradient reinforcement learning, replacing fixed reward normalization with online latent reward mean estimation to reduce variance and improve convergence."
+  arxiv: "https://arxiv.org/abs/2604.23056"
+  pdf:   "https://arxiv.org/pdf/2604.23056.pdf"
+  github: https://github.com/Sumxiaa/Kalman_Normalization
+  image: k_score.png
+  authors:
+    - Zixuan Xia*
+    - Quanxi Li*
+  note: "* Equal contribution"
+
 - id: koalapp
   title: "KOALA++: Efficient Kalman-Based Optimization with Gradient-Covariance Products"
   venue: NeurIPS, 2025
