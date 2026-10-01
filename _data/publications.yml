@@ -4,7 +4,7 @@
   description: "Flow-NLA moves beyond point reconstruction in Natural Language Autoencoders by modeling distributions of activations compatible with an explanation, retaining utility gains while reducing confabulation and writing defects."
   arxiv: "https://arxiv.org/abs/2609.33702"
   pdf: "https://arxiv.org/pdf/2609.33702.pdf"
-  image: flow.png
+  image: Flow.png
   authors:
     - Gert Lek
     - Zixuan Xia
