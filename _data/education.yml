@@ -1,13 +1,21 @@
+- name: University of Neuchâtel
+  description: >-
+    Ph.D. student in Computer Science.
+    <br>My research focuses on deep learning optimization and training dynamics, trustworthy generative AI, and multimodal representation learning.
+    <br>Supervised by Prof. Lydia Y. Chen.
+  dates: Oct 2026 – Present
+
 - name: University of Bern
   description: >-
     M.Sc. in Computer Science.
-    <br>Currently in the second year of the program. During my studies, I have been collaborating on research projects with the <a href="https://cvg.unibe.ch">Computer Vision Group</a>, focusing on optimization in deep learning.
+    <br>During my Master's studies, I collaborated with the <a href="https://cvg.unibe.ch">Computer Vision Group</a>, focusing on optimization algorithms for deep learning.
     <br>Supervised by <a href="https://cvg.unibe.ch/people/favaro">Prof. Dr. Paolo Favaro</a>.
-  dates: Sep 2024 – Present
+  dates: Sep 2024 – Sep 2026
 
 - name: Xi’an Jiaotong University
   description: >-
     B.Eng. in Software Engineering, advised by <a href="https://gr.xjtu.edu.cn/web/zhujihua">Prof. Jihua Zhu</a>.
     <br>Thesis: Music Generation Based on Large Language Models.
-  dates: Sep 2020 – June 2024
+  dates: Sep 2020 – Jun 2024
+
 
