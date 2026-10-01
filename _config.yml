@@ -1,12 +1,14 @@
 title: Zixuan Xia
-name: Zixuan(sounds like “Six-one”) Xia 
-position: Master Student
+name: Zixuan (sounds like “Six-one”) Xia
+position: PhD Student
 email: xxiazixuan824@gmail.com
 
 description: >-
-  I am a second-year Master’s student in Computer Science at the [University of Bern](https://www.unibe.ch/). I received my Bachelor’s degree in Software Engineering from [Xi’an Jiaotong University](https://en.xjtu.edu.cn/) in China.
+  I am a PhD student in Computer Science at the [University of Neuchâtel](https://www.unine.ch/), supervised by Prof. Lydia Y. Chen.
 
-  My research interests lie in optimization algorithms in deep learning, Multi-task Learning based Multimodal Learning and its relevant applications, Reinforcement Learning and Generative Models.
+  I received my Master’s degree in Computer Science from the [University of Bern](https://www.unibe.ch/) in September 2026, and my Bachelor’s degree in Software Engineering from [Xi’an Jiaotong University](https://en.xjtu.edu.cn/) in China.
+
+  My research interests lie in deep learning optimization and training dynamics, trustworthy generative AI, and multimodal representation learning.
 
 baseurl: "" # for GitHub Pages
 url: "https://sumxiaa.github.io"
@@ -14,7 +16,7 @@ url: "https://sumxiaa.github.io"
 twitter_username: Sumxiaa
 github_username: Sumxiaa
 google_scholar: jvJz7XQAAAAJ&hl
-last_updated: February 5, 2026
+last_updated: October 1, 2026
 
 # ✅ 使用官方推荐方式设置主题
 remote_theme: jekyll/minima
