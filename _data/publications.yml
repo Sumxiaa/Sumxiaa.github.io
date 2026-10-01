@@ -1,3 +1,18 @@
+- id: REGRET
+  title: "Exact Regret Frontiers and Externality Scheduling in Centralized Serial-Dictatorship Bandits"
+  venue: "arXiv, 2026"
+  description: "A theoretical study of centralized serial-dictatorship matching bandits, characterizing exact regret frontiers and showing how exploration scheduling externalities affect attainable regret."
+  arxiv: "https://arxiv.org/abs/2609.19963"
+  pdf: "https://arxiv.org/pdf/2609.19963.pdf"
+  image: regret.png
+  authors:
+    - Lishang Xu
+    - Guodong Ma
+    - Pengcheng Weng
+    - Zixuan Xia
+
+
+
 - id: COMPASS
   title: "COMPASS: Complete Multimodal Fusion via Proxy Tokens and Shared Spaces for Ubiquitous Sensing"
   venue: "arXiv, 2026"
